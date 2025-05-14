@@ -15,6 +15,6 @@ In order to run the code:
 #checkpoint_path = "best_unetPP2_model_superresolution_denoising_interpolation.pth"
 #model.load_state_dict(torch.load(checkpoint_path, map_location=device))
 
-- run TEST_VIKING_GRABEN_DATASET, loading the Viking Graben dataset (I can provide the data if encountering some issues)
+- run TEST_VIKING_GRABEN_DATASET, loading the Viking Graben dataset (I can provide the data if you are encountering some issues)
 
 Contact me for any issue in reproducing the code.
