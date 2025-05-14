@@ -17,4 +17,4 @@ In order to run the code:
 
 - run TEST_VIKING_GRABEN_DATASET, loading the Viking Graben dataset (I can provide the data if you are encountering some issues)
 
-Contact me for any issue in reproducing the code.
+Contact me for any issue if you fail in reproducing the code.
